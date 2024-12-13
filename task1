@@ -1,0 +1,18 @@
+def qosyndysy (massiv):
+    for x in massiv:
+        y=0
+        y+= x
+    return y
+    print(y0)
+def uzyndy(bagalar):
+    y = 0
+    for y in bagalar:
+        y+=1
+        return y
+
+student_marks = {"Аян": [100,80,100], "Жанар": [80,80,60], "Руслан": [60,100,80]}
+
+for name, grades in student_marks.items():
+    x = sum(grades)/uzyndyq(grades)
+    if x >80:
+        print(name, x)
