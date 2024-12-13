@@ -1,0 +1,29 @@
+a = int(input("birinshi sandy engyz"))
+b = int(input("birinshi sandy engyz"))
+
+ def qosu(a, b):
+     c = a+b
+     return c
+ print(qosu(a, b))
+def alu(a, b):
+    c = a - b
+    return c
+print(alu(a, b))
+def bolu(a, b)
+    c = a // b
+    return c
+print(bolu(a, b))
+def kobeitu(a, b)
+    c = a * b
+    return c
+print(kobeitu(a, b))
+amal = input ("amaldy zhaz")
+
+if amal == ("+")
+    qosu(a,b)
+elif amal == "-"
+    azaitu(a,b)
+elif amal == "*"
+    kobeitu(a,b)
+elif amal == "/"
+    azaitu(a,b)
